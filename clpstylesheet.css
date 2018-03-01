@@ -1,0 +1,66 @@
+	h1{
+		font-family: Arial, san-serif;
+		font-size: 25pt;
+	}
+	p{
+		font-family: Arial, san-serif;
+		font-size: 10pt;
+	}
+	li{
+		font-family: Arial, san-serif;
+		font-size: 10pt;
+	}	
+	a{
+		font-family: Arial, san-serif;
+		font-size: 10pt;
+		color: orange;
+		text-decoration: none;
+	}
+	header{
+		background-image: url("../img/chenling_bg-img.jpg");
+		border: 1px solid red;
+		max-width: 100%;
+
+	}
+	header ul li{
+		display: inline-block;
+		margin: 5px;
+		text-align: right;
+
+	}
+	.about{
+		height: 300px;
+		border: 1px solid red;
+		margin: 20px;
+		padding: 20px;
+	}
+	.main_page_specials{
+		height: 300px;
+		border: 1px solid red;
+		margin: 20px;
+		padding: 20px;
+	}
+	.special_dishes{
+		height: 300px;
+		border: 1px solid red;
+		margin: 20px;
+		padding: 20px;
+	}
+	.contact_info{
+		height: 300px;
+		border: 1px solid red;
+		margin: 20px;
+		padding: 20px;
+	}
+	footer{
+		height: 100px;
+		border: 1px solid red;
+		margin: 20px;
+		padding: 5px 20px;
+		text-align: center;
+	}
+	footer ul li{
+		display: inline-block;
+		margin: 5px;
+
+	}
